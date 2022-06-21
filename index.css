@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+    background: #a0d995;
+    font-size: 100px;
+}
+
+.container2 {
+    background: #ffffff;
+    font-size: 100px;
+}
+
+.container3 {
+    background: #a0d995;
+    font-size: 100px;
+}
